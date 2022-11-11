@@ -5,13 +5,13 @@
 
 - Сейчас разрабатываю: [Бот-Кинопятница для Telegram](https://github.com/Iff-Nomatter/moviefriday-bot)
 
-- Сейчас изучаю: **Vaadin, Spring Security**
-
 - Также разрабатываю в коллаборации: [Бот КрохаЦербер для Telegram](https://github.com/Zelginni/tiny-cerberus-bot)
 
-- Со мной можно связаться: **iffnomatter@yandex.ru | https://t.me/iff_nomatter**
+- Сейчас изучаю: **Vaadin, Spring Security**
 
-- Мое резюме доступно здесь: [https://mytischi.hh.ru/resume/be406ff0ff0b63244a0039ed1f476857726f56](https://mytischi.hh.ru/resume/be406ff0ff0b63244a0039ed1f476857726f56)
+- Со мной можно связаться по **[электронной почте](mailto:iffnomatter@yandex.ru)** или в **[Telegram](https://t.me/iff_nomatter)**
+
+- Мое резюме [на HeadHunter](https://mytischi.hh.ru/resume/be406ff0ff0b63244a0039ed1f476857726f56)
 
 - У меня есть кися и песя.
 
