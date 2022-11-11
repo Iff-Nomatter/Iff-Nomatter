@@ -5,7 +5,7 @@
 
 - Сейчас разрабатываю: [Бот-Кинопятница для Telegram](https://github.com/Iff-Nomatter/moviefriday-bot)
 
-- Также разрабатываю в коллаборации: [Бот КрохаЦербер для Telegram](https://github.com/Zelginni/tiny-cerberus-bot)
+- Также разрабатываю в коллаборации: [Бот КрохаЦербер для Telegram](https://github.com/Zelginni/tiny-cerberus-bot) на [Kotlin](https://kotlinlang.org/)
 
 - Сейчас изучаю: **Vaadin, Spring Security**
 
